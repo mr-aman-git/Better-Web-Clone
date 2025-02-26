@@ -14,8 +14,8 @@ const Navbar = () => {
               <a href="#">
                 Link 1 <i class="ri-arrow-right-line"></i>
               </a>
-              <a href="#">Link 2 </a>
-              <a href="#">Link 3 </a>
+              <a href="#">Link 2 <i class="ri-arrow-right-line"></i></a>
+              <a href="#">Link 3 <i class="ri-arrow-right-line"></i></a>
             </div>
           </div>
         </div>
